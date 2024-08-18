@@ -3,9 +3,6 @@
 ## Overview
 This project presents a SAGEConv Graph Neural Network Model for Multivariate Regression designed for the Google Quest Q&A Challenge Dataset. The model focuses on predicting the subjective aspects of question-and-answer pairs, with an emphasis on equitable visibility of valuable responses in online question-answering platforms.
 
-## Publication
-This work is currently in press and is presented at the International Conference on Machine Learning and Data Engineering 2023. The findings will be published in the Elsevier - Procedia Computer Science Journal.
-
 ## Problem Statement
 Natural Language Understanding (NLU) is crucial for applications like chatbots and sentiment analysis. The proposed solution aims to bridge the gap between human comprehension and machine analysis, particularly in the context of evaluating question-answer quality.
 
